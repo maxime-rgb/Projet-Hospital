@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(rgba(255, 115, 0, 0.76), rgb(88, 182, 0));
+    height: 70vw;
+}
+.containerlink {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    margin-top: 10vw;
+}
+.link{
+   
+    background-color: rgba(21, 133, 6, 0.479);
+    border-radius: 4px;
+    text-decoration: none;
+    width: 30vw;   
+    margin-left: 33vw; 
+}

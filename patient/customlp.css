@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(rgba(255, 115, 0, 0.76), rgb(88, 182, 0));
+    height: 70vw;
+}
+
+.table th{
+    border: 1px solid black;
+}
+.table td{
+    border: 1px solid black;
+}
+.button{
+ 
+    background-color: rgba(21, 133, 6, 0.479);
+    border-radius: 4px;
+    text-decoration: none;
+}
+.table td {
+  
+    text-align: center;
+    
+}
+.table td a{
+  
+   text-decoration: none;
+    
+}
